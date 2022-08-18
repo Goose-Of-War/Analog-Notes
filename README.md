@@ -19,6 +19,13 @@ PS: The book is also in this repository.
 		- Models and Circuit Diagrams
 		- Active Mode of Operation
 		- Saturated Mode of Operation
+- **Week 3:** 
+	- Metal Oxide Semiconductors (MOS) Field Effect Transistors [MOSFET]: Structure
+	- Enhancement-type MOSFET: Charge and Capacitive properties
+	- Operation in Enhancement type (briefly)
+	- Depletion-type MOSFET
+> _Note: There was only one class in this week. Hence, the content in the notes might be a bit more than what was taught in the class (this was done in an effort to understand it better only, no weird masochism and stuff)_
+- **Week 4:**
 
 #
 _This repository is being updated as of August 2022_
