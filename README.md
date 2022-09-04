@@ -31,7 +31,10 @@ _I know my handwriting is... please don't kill me for that_
 	- Body effect and breakdown
 	- Transistor Amplifier models: MOSFET and BJT
 	- Small amplitude equivalent models
-
+- **Week 5:**
+	- Biasing methods
+	- Equivalent Models of amplifiers
+> _Note: Questions done in the class are not added here. They will be added if necessary._
 
 #
 _This repository is being updated as of August 2022_
