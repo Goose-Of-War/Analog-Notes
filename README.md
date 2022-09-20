@@ -35,6 +35,14 @@ _I know my handwriting is... please don't kill me for that_
 	- Biasing methods
 	- Equivalent Models of amplifiers
 > _Note: Questions done in the class are not added here. They will be added if necessary._
+- **Week 6 and 7:** 
+	- Amplifier Models
+		- Common Source (CS) and Common Emitter (CE) Amplifiers
+		- Common Gate (CG) and Common Base (CB) Amplifiers
+		- Common Drain (CD) and Common Collector (CC) Amplifiers
+	- Current Mirror
+
+> _Haven't added temperature biasing technique in Week 7 notes. It's just splitting the source/emitter resistor into two parts. If anyone needs it, they can contact me to add it._
 
 #
 _This repository is being updated as of August 2022_
