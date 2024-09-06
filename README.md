@@ -45,4 +45,4 @@ _I know my handwriting is... please don't kill me for that_
 > _Haven't added temperature biasing technique in Week 7 notes. It's just splitting the source/emitter resistor into two parts. If anyone needs it, they can contact me to add it._
 
 #
-_This repository is being updated as of August 2022_
+_This repository has not been updated since September 2022. It does not contain content beyond the mid sem syllabus._
